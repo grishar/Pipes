@@ -8,6 +8,7 @@
 
 using namespace std;
 
+
 void RunCommand(vector<string> v){
 
 	const int n = v.size();
